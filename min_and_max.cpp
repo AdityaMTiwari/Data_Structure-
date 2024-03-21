@@ -21,4 +21,5 @@ cout<<min<<endl;
 int main(){
     int a[]={2,3,46,5,7};
     findminmax(a,5);
+    cout<<findminmax;
 }
